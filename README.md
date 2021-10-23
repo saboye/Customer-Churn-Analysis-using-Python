@@ -39,7 +39,7 @@ Give a ⭐️ if this project helped you!
 #### 📝 License
 
 
-This project is [MIT](https://github.com/saboye/Automated-File-Transfer/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/saboye/Customer-Churn-Analysis-using-Python/blob/main/LICENSE) licensed.
 
 ***
 
